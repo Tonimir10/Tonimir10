@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Antonio Jesús Miranda Arroba (Tonimir10)
+
+![Imagen de portada](imagenes/programacion.jpg)
+
+-Estudiante de 1DAM en Luis Vives.
+-Experiencia como programador web en Infocomputer.
+-Certificado de profesionalidad en Confección y diseño de páginas web.
+
+
 
 <!--
 **Tonimir10/Tonimir10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
